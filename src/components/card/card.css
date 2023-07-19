@@ -68,7 +68,7 @@
 }
 
 .top-flip.animated {
-  animation: flip 1s ease-in;
+  animation: flip 1s ease infinite;
 }
 
 .top-flip .value {

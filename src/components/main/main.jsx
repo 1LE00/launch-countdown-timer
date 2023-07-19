@@ -3,7 +3,7 @@ import Card from "../card/card";
 import { useEffect, useState } from "react";
 
 function Main() {
-  const [duration, setDuration] = useState(14 * 24 * 60 * 60);
+  const [duration, setDuration] = useState(14 * 24 * 60 * 60 - 1);
   const [days, setDays] = useState(0);
   const [hours, setHours] = useState(0);
   const [minutes, setMinutes] = useState(0);
