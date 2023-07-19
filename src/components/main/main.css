@@ -1,0 +1,30 @@
+#main {
+  align-items: flex-start;
+  flex: 1 1 auto;
+  padding-inline: 1rem;
+  max-width: 600px;
+}
+
+.countdown {
+  justify-content: space-between;
+}
+
+.countdown > section{
+  gap: 1rem;
+}
+
+.countdown > section > span.title {
+  color: hsl(var(--clr-primary-grayish-blue));
+  font-size: clamp(0.2rem, 2vw, 0.7rem);
+  font-weight: 700;
+  letter-spacing: 4px;
+}
+
+@media screen and (min-width: 500px){
+  .countdown > section{
+    gap: 1.5rem;
+  }
+.countdown > section > span.title {
+    letter-spacing: 5px;
+  }
+}

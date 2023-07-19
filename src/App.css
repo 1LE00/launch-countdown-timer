@@ -1,0 +1,15 @@
+.App{
+  gap: 4rem;
+  min-height: 100vh;
+  background: hsl(var(--clr-bg)) url(./assets/icons/bg-stars.svg) 75% repeat;
+  background-size: cover;
+}
+
+@media screen and (min-width: 1440px){
+  .App{
+    gap: 6rem;
+    max-width: 1536px;
+    margin-inline: auto;
+  }
+}
+

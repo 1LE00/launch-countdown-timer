@@ -1,0 +1,21 @@
+.footer{
+    height: 50vw;
+    background: url(../../assets/icons/pattern-hills.svg) 85% 0% no-repeat;
+    background-size: cover;
+    justify-content: center;
+    max-height: 180px;
+}
+
+.footer .social-links{
+    margin-block-start: 4.5rem;
+    gap: 2rem;
+}
+
+.footer .social-links svg{
+    cursor: pointer;
+}
+
+.footer .social-links svg:hover path{
+    fill: hsl(var(--clr-primary-soft-red));
+    filter: brightness(125%);
+}
