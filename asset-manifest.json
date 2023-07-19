@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/launch-countdown-timer/static/css/main.ad124cd4.css",
-    "main.js": "/launch-countdown-timer/static/js/main.471c6717.js",
+    "main.css": "/launch-countdown-timer/static/css/main.47e9b66c.css",
+    "main.js": "/launch-countdown-timer/static/js/main.11e96b26.js",
     "static/media/bg-stars.svg": "/launch-countdown-timer/static/media/bg-stars.166881a1c03d6b1239f5.svg",
     "static/media/icon-instagram.svg": "/launch-countdown-timer/static/media/icon-instagram.b94ff26a97e94b0abe8b977ee578df8a.svg",
     "static/media/icon-pinterest.svg": "/launch-countdown-timer/static/media/icon-pinterest.ea0db8e7cb2520eeee512b34e03d9bd0.svg",
     "static/media/pattern-hills.svg": "/launch-countdown-timer/static/media/pattern-hills.815d688fd937623063b5.svg",
     "index.html": "/launch-countdown-timer/index.html",
     "static/media/icon-facebook.svg": "/launch-countdown-timer/static/media/icon-facebook.a9208377508aef178a3de0fe0249cff5.svg",
-    "main.ad124cd4.css.map": "/launch-countdown-timer/static/css/main.ad124cd4.css.map",
-    "main.471c6717.js.map": "/launch-countdown-timer/static/js/main.471c6717.js.map"
+    "main.47e9b66c.css.map": "/launch-countdown-timer/static/css/main.47e9b66c.css.map",
+    "main.11e96b26.js.map": "/launch-countdown-timer/static/js/main.11e96b26.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad124cd4.css",
-    "static/js/main.471c6717.js"
+    "static/css/main.47e9b66c.css",
+    "static/js/main.11e96b26.js"
   ]
 }
